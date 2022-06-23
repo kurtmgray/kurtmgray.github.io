@@ -8,9 +8,10 @@
 
 ## Selected projects
 
-[![Personal MERN Stack Blog](https://github.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-home.png)](https://github.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-home.png)
+[![Personal MERN Stack Blog](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-home.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-home.png)
 
-[![Personal MERN Stack Blog](https://github.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-dashboard.png)](https://github.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-dashboard.png)
+[![Personal MERN Stack Blog](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-dashboard.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/blob/main/screenshots/blog-dashboard.png)
+
 _Mongo Express React Node Stack / Passport / OAuth/JWT / React Query — A multi user blogging platform with full admin controls._
 
 ---
