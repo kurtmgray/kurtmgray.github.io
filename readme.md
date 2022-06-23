@@ -16,9 +16,9 @@ _Mongo Express React Node Stack / Passport / OAuth/JWT / React Query — A multi
 
 ---
 
-[![Beat Boss](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)
+[![Beat Boss](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)
 
-[![Beat Boss](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-program.png](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-program.png)
+[![Beat Boss](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-program.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-program.png)
 
 _React / Web Audio API / Tone.js — A programmable metronome app for musical practice applications._
 
