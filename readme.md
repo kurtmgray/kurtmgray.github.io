@@ -8,6 +8,8 @@
 
 ## Selected projects
 
+### MERN Stack - Personal Blog & REST API
+
 [![Personal MERN Stack Blog](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/blog-home.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/blog-home.png)
 
 [![Personal MERN Stack Blog](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/blog-dashboard.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/blog-dashboard.png)
@@ -15,6 +17,8 @@
 _Mongo Express React Node Stack / Passport / OAuth/JWT / React Query — A multi user blogging platform with full admin controls._
 
 ---
+
+### Beat Boss - Metronome App
 
 [![Beat Boss](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)
 
