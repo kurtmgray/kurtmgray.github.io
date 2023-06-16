@@ -1,6 +1,9 @@
 # Kurt Gray's Resume
 
-### PDF
+### <a href="https://github.com/kurtmgray/kurtmgray.github.io/blob/main/resume/KurtGrayResume.pdf">
+
+PDF
+</a>
 
 <a href="https://github.com/kurtmgray/kurtmgray.github.io/blob/main/resume/KurtGrayResume.pdf">
 <img src="https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/resume.png" alt="resume preview" height="600">
