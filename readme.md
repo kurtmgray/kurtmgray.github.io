@@ -18,6 +18,16 @@ _Mongo Express React Node Stack / Passport / OAuth/JWT / React Query — A multi
 
 ---
 
+### OpenAI API App - Pantry
+
+[![Pantry] (https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/Screenshot%202023-07-19%20at%203.11.07%20PM.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/Screenshot%202023-07-19%20at%203.11.07%20PM.png)
+
+[![Pantry](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/Screenshot%202023-07-19%20at%203.13.21%20PM.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/Screenshot%202023-07-19%20at%203.13.21%20PM.png)]
+
+_React Next Vercel Postgres Prisma OpenAI API - an AI Recipe Assistant_
+
+---
+
 ### Beat Boss - Metronome App
 
 [![Beat Boss](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)](https://raw.githubusercontent.com/kurtmgray/kurtmgray.github.io/main/screenshots/met-basic.png)
